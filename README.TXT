@@ -54,7 +54,24 @@ Question 11: The difference between the constructors and methods are:
 2) The class name of the instructor matches with the inital class name which is different from the methods since they are methods.
 
 Question 12:
-private int count is a type. Like private void count. another type. To conclude, its a type.
-private Student representative and private Server Host are classes, variables, etc.
+1) the type of field "int" belongs to is instance variable.
+2) the type of field "Student" belongs to is class variable.
+3) the type of field "Server" belongs to is Class variable.
 
+Question 13:the names for each of these fields are
+1) boolean
+2) Person
+3) Game
+
+Question 14)
+
+Question 15)
+
+Question 16) Its very necessary to have a semi-colon at the end of a field because it indicates the end of a command of the 
+field. It also prevents errors from happening. After I experimented with the editor, removing the semi-colons doesn't allow me to 
+compile anything. Error code is "";" is expected". I understand that semi-colons plays a crucial role when coding.
+
+Question 17)
+
+Question 18)
 
