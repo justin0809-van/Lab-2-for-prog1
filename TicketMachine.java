@@ -35,14 +35,14 @@ public class TicketMachine
      */
     public int getPrice()
     {
-        return price;
+         return price;
     }
 
     /**
      * Return the amount of money already inserted for the
      * next ticket.
      */
-    public int getBalance()
+    public int getAmount()
     {
         return balance;
     }

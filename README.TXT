@@ -78,12 +78,89 @@ compile anything. Error code is "";" is expected". I understand that semi-colons
 Question 17)private status int;
 
 Question 18)The class that this constructor public Student(String name) belongs to is the Student class.
-
+    
 Question 19)This following constructor have 2 parameters.
 
 Question 20)Yes, i think it should be stored somewhere persistent for it to not lose data.
 No we cant guess the type of fields it has from the parameters because they two different things and no we cant know anything for sure
 since they are different.
 
-Question 21)
+Question 21) 
+public Pet(String petsName)
+{             
+   Pet = petsName
+}   
 
+Question 22)
+
+public Date(String Month, int Date, int Year)
+     Month = "March";
+     Date = 23
+     Year = 1861
+    
+Question 23)The difference is that they have different method names. Balance and Price.
+
+Question 24) it can be set as "Whats my balance?"
+
+Question 25) Nope, the return statement does not need modifications since the code works perfectly fine, no error codes.
+This tells me that the accessor method can be different than the name of the field.
+
+Question 26) I added and it worked perfectly fine.
+/**
+ * Return the value of the total field
+ * 
+ */
+public int getTotal()
+ {
+     return total;
+ }
+                     
+ 
+Question 27) The error message i recieve is "not a statement"
+
+Question 28) The main difference is located in the header part. The header for getPrice has int and for printTicket, it has void.
+
+Question 29) insertMoney and printTicket doesnt have any return statement because they both have Void, which means it cant return any value.
+
+Question 30)
+getBalance = 0
+inserted 40
+new balance is now 40
+
+Question 31)
+/**
+* Increase score by the given number of points.
+*/
+public void increaseScore(int points)
+{
+    score = score + points;
+}    
+    
+Question 32) Yes, it acts as a mutator because it changes the score of the Class
+
+
+Question 33)
+/**
+* Reduce price by the given amount.
+*/
+public void decreasePrice(int discount)
+{
+   price = price - discount;
+}
+
+
+Question 34)
+
+public int setAge(int currentAge)
+{
+    Age = currentAge
+}
+
+Question 35)
+
+private void setAlive(boolean status)
+{
+    alive = status;
+}    
+
+Question 36)
