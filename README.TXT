@@ -63,15 +63,27 @@ Question 13:the names for each of these fields are
 2) Person
 3) Game
 
-Question 14)
+Question 14)all the type of names that starts with a capital are Classes.
 
-Question 15)
+Question 15)Yes, the order of the command private int class; matters otherwise it wouldnt work. 
+One of the error codes that appeared when i switched it to "private class int;" was "<identifier expected>". As for the diagram,
+its crossed red lines.
+Another error that shows after i typed "int private class;" was <identifier expected>. As for the diagram, same thing. Red lines.
+I've come to the conclusion that in any other orders the command is built in, the error code and the diagram are the same.
 
 Question 16) Its very necessary to have a semi-colon at the end of a field because it indicates the end of a command of the 
 field. It also prevents errors from happening. After I experimented with the editor, removing the semi-colons doesn't allow me to 
 compile anything. Error code is "";" is expected". I understand that semi-colons plays a crucial role when coding.
 
-Question 17)
+Question 17)private status int;
 
-Question 18)
+Question 18)The class that this constructor public Student(String name) belongs to is the Student class.
+
+Question 19)This following constructor have 2 parameters.
+
+Question 20)Yes, i think it should be stored somewhere persistent for it to not lose data.
+No we cant guess the type of fields it has from the parameters because they two different things and no we cant know anything for sure
+since they are different.
+
+Question 21)
 
