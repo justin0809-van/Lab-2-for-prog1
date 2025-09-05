@@ -17,19 +17,19 @@ public class TicketMachine
     private int balance;
     // The total amount of money collected by this machine.
     private int total;
-
+    
     /**
      * Create a machine that issues tickets of the given price.
      * Note that the price must be greater than zero, and there
      * are no checks to ensure this.
      */
-    public TicketMachine(int price)
+    public TicketMachine(int cost)
     {
-        price = price;
+        price = cost;
         balance = 0;
         total = 0;
     }
-
+    
     /**
      * Return the price of a ticket.
      */
@@ -42,7 +42,7 @@ public class TicketMachine
      * Return the amount of money already inserted for the
      * next ticket.
      */
-    public int getAmount()
+    public int g()
     {
         return balance;
     }

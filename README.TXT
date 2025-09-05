@@ -194,6 +194,18 @@ it to work.
 Question 43)It does print the same output, but its 0. I dont understand what the command means
 but its surely not working for me.
 
-Question 44)
+Question 44)After removing the parameter and setting a fix price at 1000,
+constructing a machine no longer asks me to put set a price, but to name the 
+machine.
+
+Question 45)After adding two constructors, one has a fix price and the other
+can be set to however the user desire, we have now two options.
+1) New ticketMachine()
+2) New ticketMachine(int cost)
+
+Question 46)After succesfully implementing an empty method, this method does not require any parameter.
+"public void empty()". I believe this method is a mutator since it resets/changes the value.
+
+
         
         
