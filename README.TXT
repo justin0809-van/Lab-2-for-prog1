@@ -163,4 +163,37 @@ private void setAlive(boolean status)
     alive = status;
 }    
 
-Question 36)
+Question 36)After changing the parameter to price and matching (price = price), the value of the 
+price is 0 after i inserted the cost. Always 0. But if i change it back to cost, in the editor, the
+value registers.
+
+Question 37)The command will print exactly these following: "My cat has green eyes"
+
+Question 38) Here is the command i inserted. It has no syntax errors.
+    /**
+     * Please insert the right amount of money.
+     */
+    public void prompt()
+    {
+        System.out.println("Please insert the right amount of money");
+    }
+
+Question 39) the following command should print out "#pricecents."
+
+Question 40) the following command should print out "# price cents."
+
+Question 41) The command i used is 
+Public void showPrice()
+    {
+        System.out.println("The price of the ticket is " + price + "cents.");
+    }
+    
+Question 42)The outputs are the same but its 0. I believe there wasnt a code written beforehand that allows
+it to work.
+
+Question 43)It does print the same output, but its 0. I dont understand what the command means
+but its surely not working for me.
+
+Question 44)
+        
+        
